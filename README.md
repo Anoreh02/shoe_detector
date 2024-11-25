@@ -21,4 +21,4 @@ Make sure you have the following installed before running the project:
    - Install MongoDB Community Server from [here](https://www.mongodb.com/try/download/community).
    - Ensure MongoDB is running locally or on a remote server.
 3. **requirements**: 
-   - Install the project dependencies by running [here]('pip install -r requirements.txt').
+   - Install the project dependencies by running ('pip install -r requirements.txt').
