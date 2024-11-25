@@ -1,0 +1,22 @@
+myvenv/
+models/
+images/
+database/
+output_images/
+runs/
+videos/
+dataset/
+
+# Ignore all `.log` files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+train.py
+tempCodeRunnerFile.py
+predict_video.py
+predict_webcam.py
+predict_image.py
+config.yaml
