@@ -3,7 +3,7 @@ import time
 
 # Load the trained YOLO model
 model = YOLO("model.pt")
-# model = YOLO("C:/Users/anore/OneDrive/Documents/3rd Year/Codes/Shoe Detector/model.pt")
+
     
 class TrackedShoe:
     def __init__(self, bbox, id, timestamp):

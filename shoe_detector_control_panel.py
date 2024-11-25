@@ -8,7 +8,6 @@ import datetime
 from PIL import Image, ImageTk
 
 image_path = "database/images"
-# image_path = "C:/Users/anore/OneDrive/Documents/3rd Year/Codes/Shoe Detector/database/images"
 
 class ControlPanel:
 
